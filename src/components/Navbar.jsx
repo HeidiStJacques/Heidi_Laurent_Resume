@@ -15,6 +15,7 @@ export default function Navbar() {
           <a href="#about" className="hover:text-[#007B94]">About</a>
           <a href="#skills" className="hover:text-[#007B94]">Skills</a>
           <a href="#projects" className="hover:text-[#007B94]">Projects</a>
+          <a href="#analytics" className="hover:text-[#007B94]">Analytics</a>
           <a href="#contact" className="hover:text-[#007B94]">Contact</a>
           <a
             href="/resume.pdf"

@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="max-w-6xl mx-auto px-6 py-20 md:py-28">
+    <section className="max-w-6xl mx-auto px-6 py-20 md:py-28 min-h-screen flex items-center">
       <div className="grid md:grid-cols-2 gap-10 items-center">
 
         {/* LEFT SIDE */}
@@ -38,7 +38,7 @@ export default function Hero() {
               Contact Me
             </a>
             <a
-              href="/resume.pdf"
+              href="/Heidi_Laurent_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center rounded-xl bg-[#007B94] px-5 py-3 text-white font-semibold hover:opacity-90 transition"
